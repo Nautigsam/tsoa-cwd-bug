@@ -1,0 +1,7 @@
+{
+	"controllerPathGlobs": ["*-controller.ts"],
+	"spec": {
+		"outputDirectory": ".",
+		"specVersion": 3
+	}
+}

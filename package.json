@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "tsoa": "^5.0.0-alpha.3"
+  }
+}
